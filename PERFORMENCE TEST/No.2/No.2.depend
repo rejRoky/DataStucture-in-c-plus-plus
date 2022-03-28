@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1449460036 source:c:\users\roky\onedrive\new\no.2\main.cpp
+	<iostream>
+	<queue>
+	<stack>
+
