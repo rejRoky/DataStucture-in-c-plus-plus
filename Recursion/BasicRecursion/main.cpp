@@ -2,13 +2,13 @@
 
 using namespace std;
 
-void fun (int n) // recursion funtion
+void fun (int n) 
 {
-    if (n > 0)
+    if (n > 40)
     {
-        cout << "Before n = " << n << endl; // Before print // Calling Time // Ascending
+        cout <<  n << endl; 
         fun(n-1); // recursion perform
-        cout << "After n = " << n << endl; // After print // Returning Time // Descending
+       
     }
 }
 
